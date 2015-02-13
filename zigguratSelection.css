@@ -1,0 +1,11 @@
+body {
+  background-color: #5983FF;
+}
+
+.header {
+  float: right;
+}
+
+input .randomButton{
+  float: center;
+}
